@@ -1,1 +1,3 @@
 Csak a gyakorláshoz.
+
+Pull requesthez beleírva.
